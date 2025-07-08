@@ -12,4 +12,10 @@ github repo name ICT171-LAB-
 
 after that, worked on the terminal on both the vm and my mac to see if things are working well and reflected onto the commands written
 
+# day2
+
+making TCO : between hardware, software, licensing 
+(need to use google sheets or excel))
+calculate break-even point and 3 year projections 
+
 
