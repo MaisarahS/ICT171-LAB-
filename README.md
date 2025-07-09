@@ -14,6 +14,7 @@ github repo name ICT171-LAB-
 
 after that, worked on the terminal on both the vm and my mac to see if things are working well and reflected onto the commands written
 
+
 <img width="1399" alt="image" src="https://github.com/user-attachments/assets/0302e084-eff0-49cf-a1da-ac93f86fe35c" />
 
 <img width="607" alt="image" src="https://github.com/user-attachments/assets/91d0dbde-106a-4e39-a0de-9dc075f70022" />
